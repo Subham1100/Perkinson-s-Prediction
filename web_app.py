@@ -11,7 +11,7 @@ import pickle
 import streamlit as st 
 from streamlit_option_menu import option_menu 
 
-loaded_model = pickle.load(open('/Users/subhamchauhan/Desktop/DiseasePrediction/trained_model','rb'))
+loaded_model = pickle.load(open('trained_model','rb'))
 
 def perkinsons(input_data):
     input_data_as_numpy_array =np.asarray(input_data)
