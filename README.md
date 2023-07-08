@@ -11,6 +11,7 @@ New data ---→ train support vector machine classifier ---→ parkinson’s or 
 
 # Accuracy Score :  87.17948717948718
 
-# Deploy on Share.streamlit.io : https://perkinson-s-prediction-zpcx0xxq3uc.streamlit.app/
+# Deploy on Share.streamlit.io 
+https://perkinson-s-prediction-zpcx0xxq3uc.streamlit.app/
 
 
